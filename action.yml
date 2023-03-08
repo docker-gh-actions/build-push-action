@@ -1,5 +1,5 @@
 # https://help.github.com/en/articles/metadata-syntax-for-github-actions
-name: Build and push Docker images
+name: Build & Push Docker Images
 description: Build and push Docker images with Buildx
 author: docker-gh-actions
 branding:
